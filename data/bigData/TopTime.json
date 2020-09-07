@@ -1,0 +1,691 @@
+{
+    "title": "高发时段统计报表",
+    "totalElements": 7,
+    "content": [{
+        "day": "1",
+        "am1": {
+            "Num": "23",
+            "TimeLength": "107"
+        },
+        "am2": {
+            "Num": "18",
+            "TimeLength": "90"
+        },
+        "am3": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am4": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am5": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am6": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am7": {
+            "Num": "44",
+            "TimeLength": "224"
+        },
+        "am8": {
+            "Num": "168",
+            "TimeLength": "841"
+        },
+        "am9": {
+            "Num": "173",
+            "TimeLength": "862"
+        },
+        "am10": {
+            "Num": "140",
+            "TimeLength": "697"
+        },
+        "am11": {
+            "Num": "161",
+            "TimeLength": "808"
+        },
+        "am12": {
+            "Num": "158",
+            "TimeLength": "790"
+        },
+        "am13": {
+            "Num": "148",
+            "TimeLength": "741"
+        },
+        "am14": {
+            "Num": "129",
+            "TimeLength": "644"
+        },
+        "am15": {
+            "Num": "170",
+            "TimeLength": "847"
+        },
+        "am16": {
+            "Num": "177",
+            "TimeLength": "887"
+        },
+        "am17": {
+            "Num": "147",
+            "TimeLength": "739"
+        },
+        "am18": {
+            "Num": "196",
+            "TimeLength": "979"
+        },
+        "am19": {
+            "Num": "104",
+            "TimeLength": "524"
+        },
+        "am20": {
+            "Num": "101",
+            "TimeLength": "502"
+        },
+        "am21": {
+            "Num": "109",
+            "TimeLength": "549"
+        },
+        "am22": {
+            "Num": "81",
+            "TimeLength": "402"
+        },
+        "am23": {
+            "Num": "64",
+            "TimeLength": "316"
+        },
+        "am24": {
+            "Num": "14",
+            "TimeLength": "74"
+        }
+    }, {
+        "day": "2",
+        "am1": {
+            "Num": "32",
+            "TimeLength": "149"
+        },
+        "am2": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am3": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am4": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am5": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am6": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am7": {
+            "Num": "12",
+            "TimeLength": "64"
+        },
+        "am8": {
+            "Num": "86",
+            "TimeLength": "430"
+        },
+        "am9": {
+            "Num": "100",
+            "TimeLength": "504"
+        },
+        "am10": {
+            "Num": "110",
+            "TimeLength": "547"
+        },
+        "am11": {
+            "Num": "103",
+            "TimeLength": "517"
+        },
+        "am12": {
+            "Num": "102",
+            "TimeLength": "514"
+        },
+        "am13": {
+            "Num": "73",
+            "TimeLength": "366"
+        },
+        "am14": {
+            "Num": "83",
+            "TimeLength": "411"
+        },
+        "am15": {
+            "Num": "97",
+            "TimeLength": "489"
+        },
+        "am16": {
+            "Num": "92",
+            "TimeLength": "457"
+        },
+        "am17": {
+            "Num": "123",
+            "TimeLength": "615"
+        },
+        "am18": {
+            "Num": "122",
+            "TimeLength": "612"
+        },
+        "am19": {
+            "Num": "111",
+            "TimeLength": "555"
+        },
+        "am20": {
+            "Num": "94",
+            "TimeLength": "467"
+        },
+        "am21": {
+            "Num": "94",
+            "TimeLength": "470"
+        },
+        "am22": {
+            "Num": "88",
+            "TimeLength": "442"
+        },
+        "am23": {
+            "Num": "47",
+            "TimeLength": "234"
+        },
+        "am24": {
+            "Num": "6",
+            "TimeLength": "34"
+        }
+    }, {
+        "day": "3",
+        "am1": {
+            "Num": "7",
+            "TimeLength": "39"
+        },
+        "am2": {
+            "Num": "9",
+            "TimeLength": "45"
+        },
+        "am3": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am4": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am5": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am6": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am7": {
+            "Num": "3",
+            "TimeLength": "19"
+        },
+        "am8": {
+            "Num": "88",
+            "TimeLength": "442"
+        },
+        "am9": {
+            "Num": "80",
+            "TimeLength": "399"
+        },
+        "am10": {
+            "Num": "84",
+            "TimeLength": "423"
+        },
+        "am11": {
+            "Num": "93",
+            "TimeLength": "469"
+        },
+        "am12": {
+            "Num": "112",
+            "TimeLength": "559"
+        },
+        "am13": {
+            "Num": "71",
+            "TimeLength": "352"
+        },
+        "am14": {
+            "Num": "71",
+            "TimeLength": "352"
+        },
+        "am15": {
+            "Num": "111",
+            "TimeLength": "559"
+        },
+        "am16": {
+            "Num": "87",
+            "TimeLength": "434"
+        },
+        "am17": {
+            "Num": "99",
+            "TimeLength": "495"
+        },
+        "am18": {
+            "Num": "119",
+            "TimeLength": "597"
+        },
+        "am19": {
+            "Num": "106",
+            "TimeLength": "534"
+        },
+        "am20": {
+            "Num": "110",
+            "TimeLength": "552"
+        },
+        "am21": {
+            "Num": "109",
+            "TimeLength": "544"
+        },
+        "am22": {
+            "Num": "81",
+            "TimeLength": "409"
+        },
+        "am23": {
+            "Num": "48",
+            "TimeLength": "233"
+        },
+        "am24": {
+            "Num": "8",
+            "TimeLength": "44"
+        }
+    }, {
+        "day": "4",
+        "am1": {
+            "Num": "6",
+            "TimeLength": "27"
+        },
+        "am2": {
+            "Num": "2",
+            "TimeLength": "7"
+        },
+        "am3": {
+            "Num": "7",
+            "TimeLength": "39"
+        },
+        "am4": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am5": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am6": {
+            "Num": "10",
+            "TimeLength": "43"
+        },
+        "am7": {
+            "Num": "11",
+            "TimeLength": "44"
+        },
+        "am8": {
+            "Num": "87",
+            "TimeLength": "439"
+        },
+        "am9": {
+            "Num": "94",
+            "TimeLength": "471"
+        },
+        "am10": {
+            "Num": "81",
+            "TimeLength": "402"
+        },
+        "am11": {
+            "Num": "112",
+            "TimeLength": "563"
+        },
+        "am12": {
+            "Num": "93",
+            "TimeLength": "469"
+        },
+        "am13": {
+            "Num": "75",
+            "TimeLength": "378"
+        },
+        "am14": {
+            "Num": "77",
+            "TimeLength": "384"
+        },
+        "am15": {
+            "Num": "115",
+            "TimeLength": "572"
+        },
+        "am16": {
+            "Num": "80",
+            "TimeLength": "397"
+        },
+        "am17": {
+            "Num": "116",
+            "TimeLength": "577"
+        },
+        "am18": {
+            "Num": "113",
+            "TimeLength": "567"
+        },
+        "am19": {
+            "Num": "118",
+            "TimeLength": "589"
+        },
+        "am20": {
+            "Num": "126",
+            "TimeLength": "630"
+        },
+        "am21": {
+            "Num": "107",
+            "TimeLength": "539"
+        },
+        "am22": {
+            "Num": "83",
+            "TimeLength": "416"
+        },
+        "am23": {
+            "Num": "88",
+            "TimeLength": "442"
+        },
+        "am24": {
+            "Num": "25",
+            "TimeLength": "124"
+        }
+    }, {
+        "day": "5",
+        "am1": {
+            "Num": "31",
+            "TimeLength": "152"
+        },
+        "am2": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am3": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am4": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am5": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am6": {
+            "Num": "7",
+            "TimeLength": "32"
+        },
+        "am7": {
+            "Num": "2",
+            "TimeLength": "9"
+        },
+        "am8": {
+            "Num": "47",
+            "TimeLength": "239"
+        },
+        "am9": {
+            "Num": "78",
+            "TimeLength": "389"
+        },
+        "am10": {
+            "Num": "76",
+            "TimeLength": "377"
+        },
+        "am11": {
+            "Num": "100",
+            "TimeLength": "504"
+        },
+        "am12": {
+            "Num": "90",
+            "TimeLength": "454"
+        },
+        "am13": {
+            "Num": "92",
+            "TimeLength": "463"
+        },
+        "am14": {
+            "Num": "116",
+            "TimeLength": "577"
+        },
+        "am15": {
+            "Num": "143",
+            "TimeLength": "713"
+        },
+        "am16": {
+            "Num": "122",
+            "TimeLength": "607"
+        },
+        "am17": {
+            "Num": "92",
+            "TimeLength": "462"
+        },
+        "am18": {
+            "Num": "121",
+            "TimeLength": "604"
+        },
+        "am19": {
+            "Num": "94",
+            "TimeLength": "470"
+        },
+        "am20": {
+            "Num": "111",
+            "TimeLength": "559"
+        },
+        "am21": {
+            "Num": "102",
+            "TimeLength": "511"
+        },
+        "am22": {
+            "Num": "91",
+            "TimeLength": "457"
+        },
+        "am23": {
+            "Num": "66",
+            "TimeLength": "329"
+        },
+        "am24": {
+            "Num": "21",
+            "TimeLength": "104"
+        }
+    }, {
+        "day": "6",
+        "am1": {
+            "Num": "22",
+            "TimeLength": "108"
+        },
+        "am2": {
+            "Num": "7",
+            "TimeLength": "32"
+        },
+        "am3": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am4": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am5": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am6": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am7": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am8": {
+            "Num": "12",
+            "TimeLength": "64"
+        },
+        "am9": {
+            "Num": "68",
+            "TimeLength": "341"
+        },
+        "am10": {
+            "Num": "77",
+            "TimeLength": "382"
+        },
+        "am11": {
+            "Num": "94",
+            "TimeLength": "474"
+        },
+        "am12": {
+            "Num": "113",
+            "TimeLength": "567"
+        },
+        "am13": {
+            "Num": "90",
+            "TimeLength": "450"
+        },
+        "am14": {
+            "Num": "112",
+            "TimeLength": "557"
+        },
+        "am15": {
+            "Num": "82",
+            "TimeLength": "411"
+        },
+        "am16": {
+            "Num": "105",
+            "TimeLength": "522"
+        },
+        "am17": {
+            "Num": "90",
+            "TimeLength": "449"
+        },
+        "am18": {
+            "Num": "94",
+            "TimeLength": "470"
+        },
+        "am19": {
+            "Num": "128",
+            "TimeLength": "639"
+        },
+        "am20": {
+            "Num": "83",
+            "TimeLength": "417"
+        },
+        "am21": {
+            "Num": "100",
+            "TimeLength": "499"
+        },
+        "am22": {
+            "Num": "93",
+            "TimeLength": "462"
+        },
+        "am23": {
+            "Num": "76",
+            "TimeLength": "384"
+        },
+        "am24": {
+            "Num": "14",
+            "TimeLength": "71"
+        }
+    }, {
+        "day": "7",
+        "am1": {
+            "Num": "25",
+            "TimeLength": "118"
+        },
+        "am2": {
+            "Num": "9",
+            "TimeLength": "34"
+        },
+        "am3": {
+            "Num": "4",
+            "TimeLength": "19"
+        },
+        "am4": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am5": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am6": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am7": {
+            "Num": "17",
+            "TimeLength": "89"
+        },
+        "am8": {
+            "Num": "70",
+            "TimeLength": "352"
+        },
+        "am9": {
+            "Num": "102",
+            "TimeLength": "514"
+        },
+        "am10": {
+            "Num": "103",
+            "TimeLength": "512"
+        },
+        "am11": {
+            "Num": "66",
+            "TimeLength": "329"
+        },
+        "am12": {
+            "Num": "76",
+            "TimeLength": "384"
+        },
+        "am13": {
+            "Num": "71",
+            "TimeLength": "354"
+        },
+        "am14": {
+            "Num": "72",
+            "TimeLength": "361"
+        },
+        "am15": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am16": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am17": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am18": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am19": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am20": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am21": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am22": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am23": {
+            "Num": "0",
+            "TimeLength": "0"
+        },
+        "am24": {
+            "Num": "0",
+            "TimeLength": "0"
+        }
+    }]
+}

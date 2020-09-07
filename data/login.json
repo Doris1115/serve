@@ -1,0 +1,35 @@
+{
+    "user": {
+        "user": {
+            "createBy": null,
+            "updatedBy": "admin",
+            "createTime": -61579090084000,
+            "updateTime": -61525432059000,
+            "id": 1,
+            "roles": [{
+                "id": 1,
+                "name": "超级管理员",
+                "level": 1,
+                "dataScope": "全部"
+            }],
+            "jobs": [],
+            "dept": {
+                "id": 2,
+                "name": "研发部"
+            },
+            "deptId": null,
+            "username": "admin",
+            "nickName": "管理员",
+            "email": "807720754@qq.com",
+            "phone": "18888888888",
+            "gender": "1",
+            "avatarName": null,
+            "avatarPath": null,
+            "enabled": true,
+            "pwdResetTime": 1588495111000
+        },
+        "dataScopes": [],
+        "roles": ["admin"]
+    },
+    "token": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJkNzk5ZDRhMzg3Yzc0YTQ1OGU2ODkwY2EwZmQyZDcxNiIsImF1dGgiOiJhZG1pbiIsInN1YiI6ImFkbWluIn0.2ko1lNLqpVahcaMRiawjApL076rM-dZ8Od9nmeBQFh7NbYu39BiWw1Vp2qZfGDLlwnNPb9d7r71B4eIgalo_Ng"
+}

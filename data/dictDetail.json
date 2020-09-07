@@ -1,0 +1,28 @@
+{
+    "content": [{
+        "createBy": null,
+        "updatedBy": null,
+        "createTime": 1572179496000,
+        "updateTime": null,
+        "id": 1,
+        "dict": {
+            "id": 1
+        },
+        "label": "激活",
+        "value": "true",
+        "dictSort": 1
+    }, {
+        "createBy": null,
+        "updatedBy": null,
+        "createTime": null,
+        "updateTime": null,
+        "id": 2,
+        "dict": {
+            "id": 1
+        },
+        "label": "禁用",
+        "value": "false",
+        "dictSort": 2
+    }],
+    "totalElements": 2
+}
